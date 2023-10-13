@@ -1,0 +1,24 @@
+#lg{
+    width: 12vw;
+    display: flex;
+    justify-content: space-around;
+}
+.firstsec{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10vh;
+    justify-content: space-evenly;
+}
+.text-warning{
+    font-size: 30px;
+}
+.r-form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid grey;
+}
+.form-control{
+    background-color: rgb(251, 246, 246);
+    border:1px solid rgb(35, 32, 32);
+}
